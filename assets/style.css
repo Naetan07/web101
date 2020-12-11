@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    background-image: url(hood.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgba(250, 250, 200);
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+hr {
+    width: 50%;
+}
